@@ -10,8 +10,8 @@
     "images-view.js": "/static/js/images-view.d9ef5d7b.chunk.js",
     "images-view.js.map": "/static/js/images-view.d9ef5d7b.chunk.js.map",
     "main.css": "/static/css/main.b803c6cc.chunk.css",
-    "main.js": "/static/js/main.7453cc72.chunk.js",
-    "main.js.map": "/static/js/main.7453cc72.chunk.js.map",
+    "main.js": "/static/js/main.aecfae9e.chunk.js",
+    "main.js.map": "/static/js/main.aecfae9e.chunk.js.map",
     "movieDetails-page.css": "/static/css/movieDetails-page.c621eb77.chunk.css",
     "movieDetails-page.js": "/static/js/movieDetails-page.91acefe4.chunk.js",
     "movieDetails-page.js.map": "/static/js/movieDetails-page.91acefe4.chunk.js.map",
@@ -45,7 +45,7 @@
     "static/css/trailers-view.d9db6e96.chunk.css.map": "/static/css/trailers-view.d9db6e96.chunk.css.map",
     "static/js/11.32b3701a.chunk.js.LICENSE.txt": "/static/js/11.32b3701a.chunk.js.LICENSE.txt",
     "static/media/ButtonToTop.module.css": "/static/media/arrow.f2ad71bb.svg",
-    "static/media/batman.6a0e28cd.png": "/static/media/batman.6a0e28cd.png",
+    "static/media/harli.a80995dc.png": "/static/media/harli.a80995dc.png",
     "static/media/Navigation.module.css": "/static/media/logo.b34eadc0.svg",
     "static/media/oskar.jpg": "/static/media/oskar.0e877562.jpg",
     "static/media/FilmDetails.module.css": "/static/media/play.603239d2.svg"
@@ -54,6 +54,6 @@
     "static/js/runtime-main.72d6230e.js",
     "static/js/11.32b3701a.chunk.js",
     "static/css/main.b803c6cc.chunk.css",
-    "static/js/main.7453cc72.chunk.js"
+    "static/js/main.aecfae9e.chunk.js"
   ]
 }
